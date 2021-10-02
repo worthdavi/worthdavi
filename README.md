@@ -12,7 +12,10 @@
 #### Who I am
 ```javascript
 function WhatDoILike = () => {
-    console.log("I am a person that likes to solve problems using codes. I am always searching for more ways to improve my habilities and get more experience in this area, hoping for the day I am gonna make something really important. Also I'm a english language enthusiast (still not fluent but working on it).")
+    console.log("I am a person that likes to solve problems using codes.
+    I am always searching for more ways to improve my habilities and get more experience in this area,
+    hoping for the day I am gonna make something really important.
+    Also I'm a english language enthusiast (still not fluent but working on it).")
 }
 ```
 
