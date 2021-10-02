@@ -12,16 +12,18 @@
 #### Who I am
 ```javascript
 function WhatDoILike = () => {
-    console.log("I am a person that likes to solve problems using codes.
-    I am always searching for more ways to improve my habilities and get more experience in this area,
-    hoping for the day I am gonna make something really important.
-    Also I'm a english language enthusiast (still not fluent but working on it).")
+    console.log(""
+    + "I am a person that likes to solve problems using codes."
+    + "I am always searching for more ways to improve my habilities and get more experience in this area,"
+    + "hoping for the day I am gonna make something really important."
+    + "Also I'm a english language enthusiast (still not fluent but working on it).")
 }
 ```
 
 ```csharp
 public static void WhatAmIDoing() {
-    Console.WriteLine("Since I am still a student, I am currently scriting and developing at back-end for Tibia private servers community, learning C++ and Lua.")
+    Console.WriteLine(""
+    + "Since I am still a student, I am currently scriting and developing at back-end for Tibia private servers community, learning C++ and Lua.")
 }
 ```
 
