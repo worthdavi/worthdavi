@@ -10,6 +10,7 @@
 #### Formation
 - IT technician by IFCE, Campus Cedro
 - (7/8) Bachelors in Information Systems at IFCE, Campus Cedro
+- Currently Systems Analyst for Wipro
 #### Who I am
 ```javascript
 const WhatDoILike = () => {
