@@ -9,6 +9,8 @@
 #### Formation
 - IT technician by IFCE, Campus Cedro
 - (7/8) Bachelors in Information Systems at IFCE, Campus Cedro
+
+#### Experience
 - Currently Systems Analyst for Wipro
 
 
