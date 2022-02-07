@@ -1,6 +1,5 @@
 #### Yo, I am Davi :alien:
 
-- 🌱 Currently learning React and improving my Javascript
 - 👯 Looking to collaborate on any project that makes me learn something
 - 📫 How to reach me: 
 
