@@ -10,6 +10,6 @@
 - (8/8) Bachelors in Information Systems at IFCE, Campus Cedro
 
 #### Experience
-- Currently Java Junior Developer for Wipro
+- Currently Java Developer at Engesoftware
 
 
